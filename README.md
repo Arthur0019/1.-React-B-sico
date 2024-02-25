@@ -24,7 +24,7 @@
 - Execute o comando : **`npm start`**
     - Essa função executará um Servidor para Execução a Aplicação Criada.
 
-- 
+- Caso deseje personalizar para melhor apresentação de forma única e melhor se enquadrar com seus gostos acesse o arquivo : `src\app.js` 
 
 ### Contatos:
 
