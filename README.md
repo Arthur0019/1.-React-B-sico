@@ -5,6 +5,7 @@
 
 ### Estou aprendendo e me desenvolvendo cada dia mais para proporcianar conhecimentos sólidos e exercê los !
 
+### Vamos lá e venha aprender comigo ! :shipit:
 
 #### Neste Repositório somente executei funcões básicas de criação de uma aplicação React
 
