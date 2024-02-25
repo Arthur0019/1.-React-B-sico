@@ -5,7 +5,7 @@
 
 ### Estou aprendendo e me desenvolvendo cada dia mais para proporcianar conhecimentos sólidos e exercê los !
 
-### Vamos lá e venha aprender comigo ! :shipit:
+### Venha comigo nessa e vamos Aprender a Porgramar em React ! :shipit:
 
 
 > [!NOTE]
