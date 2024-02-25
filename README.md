@@ -12,9 +12,9 @@
 > Neste Repositório somente executei funcões básicas de criação de uma aplicação React.
 
 > [!IMPORTANT]
-> **OBS: Para todo Processo será necessário a instalação do Node.js.**
+> **Para todo Processo será necessário a instalação do Node.js.**
 
-
+The background color is `#ffffff olpásasd` for light mode and `#000000` for dark mode.
 
 - Na pasta criada para a realização do "PROJETO" abra o Terminal ("cmd"/"VSCode"); 
 
