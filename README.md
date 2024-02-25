@@ -7,10 +7,13 @@
 
 ### Vamos lá e venha aprender comigo ! :shipit:
 
-#### Neste Repositório somente executei funcões básicas de criação de uma aplicação React
 
 > [!NOTE]
-> **OBS: Para todo Processo será necessário a instalação do Node.js**
+> Neste Repositório somente executei funcões básicas de criação de uma aplicação React.
+
+> [!IMPORTANT]
+> **OBS: Para todo Processo será necessário a instalação do Node.js.**
+
 
 
 - Na pasta criada para a realização do "PROJETO" abra o Terminal ("cmd"/"VSCode"); 
