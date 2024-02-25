@@ -1,9 +1,9 @@
 # 1. React Básico
 
-## Aqui encontrarão meuprimeiro exemplo de aplicação dos meus estudos de React 
+## Aqui encontrarão meu primeiro exemplo de aplicação dos meus estudos de React 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" height="60"/>
 
-### Estou aprendendo e me desenvolvendo cada dia mais para proporcianar conhecimentos sólidos e exercê los !
+### Estou aprendendo e me desenvolvendo cada dia mais para proporcianar conhecimentos sólidos e exercê-los !
 
 ### Venha comigo nessa e vamos Aprender a Programar em React ! :shipit:
 
