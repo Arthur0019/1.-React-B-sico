@@ -9,12 +9,16 @@
 
 #### Neste Repositório somente executei funcões básicas de criação de uma aplicação React
 
-**OBS: Para todo Processo será necessário a instalação do Node.js**
+> [!NOTE]
+> **OBS: Para todo Processo será necessário a instalação do Node.js**
+
 
 - Na pasta criada para a realização do "PROJETO" abra o Terminal ("cmd"/"VSCode"); 
 
-- Execute o comando : 
+- Execute o comando :
+
 #### ***npx create-react-app (nome do arquivo)*** 
+
 - Aguarde a conclusão da criacão de todos arquivos;
 
 - Abra o Terminal na pasta criada ou entre pelo Terminal após a conclusão com o comando :
