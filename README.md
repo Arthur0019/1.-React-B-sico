@@ -14,18 +14,17 @@
 > [!IMPORTANT]
 > **Para todo Processo será necessário a instalação do Node.js.**
 
-The background color is `#ffffff olpásasd` for light mode and `#000000` for dark mode.
 
 - Na pasta criada para a realização do "PROJETO" abra o Terminal ("cmd"/"VSCode"); 
 
 - Execute o comando :
 
-#### ***npx create-react-app (nome do arquivo)*** 
+#### **`npx create-react-app (nome do arquivo)`** 
 
 - Aguarde a conclusão da criacão de todos arquivos;
 
 - Abra o Terminal na pasta criada ou entre pelo Terminal após a conclusão com o comando :
-#### **cd (nome do arquivo)** 
+#### **`cd (nome do arquivo)`** 
 
 ### Contatos:
 
