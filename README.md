@@ -12,7 +12,7 @@
 
 - Na pasta criada para a realização do "PROJETO" abra o Terminal ("cmd"/"VSCode"); 
 
--Execute o comando **npx create-react-app** Aguarde a conclusão da criacão de todos arquivos;
+- Execute o comando **npx create-react-app** Aguarde a conclusão da criacão de todos arquivos;
  
 
 
