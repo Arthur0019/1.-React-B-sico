@@ -27,7 +27,7 @@
 - Caso deseje personalizar para melhor apresentação de forma única e melhor se enquadrar com seus gostos acesse o arquivo : `src\app.js` 
 
 
-### Esse foi o modelo que personalizado que executei !
+### Esse foi o modelo personalizado que executei !
 
 <img src="/hello-world/src/Modelo.gif">
 
